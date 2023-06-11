@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jilloyd08
 - 👀 I’m interested in sharpening my skills in programming/hacking/cyber
 - 🌱 I’m currently learning programming/ethical hacking/cyber security through ZerotoMastery
-- 💞️ I’m looking to collaborate on projects I might learn from
+- 🎶 I’m looking to collaborate on projects I might learn from
 - 📫 How to reach me > message through here
 
 <!---
